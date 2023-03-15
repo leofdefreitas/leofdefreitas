@@ -1,16 +1,16 @@
-### Hi there 👋
+## Welcome to Leo's Github 👋
 
-<!--
-**leofdefreitas/leofdefreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :man: My name is Leonardo and I'm a 27 year old Backend Software Engineer from Brazil :brazil:
+- :book: I'm a Computer Science Bachelor and have worked as a Developer for the past 4 years. 
+- :eyes: Currently looking for a new oportunity as a Backend Software Engineer!
+- :soccer: Fun fact: I'm passionate about football and love watching my team, São Paulo 🇾🇪, play at the Morumbi stadium.
+- :link: Feel free to connect with me here or on any other social media linked below!
 
-Here are some ideas to get you started:
+<a href="https://linkedin.com/in/leoffreitas"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/DevLeofreitas"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:leofdefreitas@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofdefreitas&layout=compact&theme=dark&hide_border=true)
+
