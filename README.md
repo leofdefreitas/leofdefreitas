@@ -1,8 +1,8 @@
 ## Welcome to Leo's Github 👋
 
 - :man: My name is Leonardo and I'm a 28 year old Backend Software Engineer from Brazil :brazil:
-- :book: I'm a Computer Science Bachelor and have worked as a Developer for the past 4 years. 
-- :rocket: Currently an Automation Engineer for Mynaric, in Münich, Germany
+- :book: I'm a Computer Science Bachelor and have worked as a Developer for the past 5 years. 
+- :rocket: Currently an Automation Engineer for Mynaric AG, in München, Germany
 - :soccer: Fun fact: I'm passionate about football and love watching my team, São Paulo 🇾🇪, play at the Morumbi stadium.
 - :link: Feel free to connect with me here or on any other social media linked below!
 
